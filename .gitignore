@@ -1,0 +1,14 @@
+submissions/
+old_notebooks/
+data/
+
+# virtual environment
+.venv/
+env/
+venv/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
