@@ -47,7 +47,7 @@ Structural Graph Aggregations     Time-Step Standardization
              Final Fraud Predictions (AUC)
 ```
 
-## 🎯 Validation Strategy
+## Validation Strategy
 
 To prevent data leakage and accurately simulate production deployment, the pipeline uses a **Strict Out-of-Time (OOT)** temporal validation scheme[cite: 1, 2]:
 
